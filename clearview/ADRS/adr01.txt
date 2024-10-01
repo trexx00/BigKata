@@ -1,0 +1,3 @@
+Resume consumption is already well developed
+
+For this reason we believe that providing accurate but consumable output should be sufficient to provide the various HR systems with resumes. Those systems are well established and are more that capable of ingesting resumes
