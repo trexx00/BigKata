@@ -1,0 +1,5 @@
+Our approach to the solution includes the following assumptions and ideas:
+
+- AI is powerful and constantly changing	
+- Have an eye for the driving needs of the customer. That is not just pieces of the system asked for, but providing an answer to the intent/project goals
+- Do not worry about aspects of the system that already established by other products
